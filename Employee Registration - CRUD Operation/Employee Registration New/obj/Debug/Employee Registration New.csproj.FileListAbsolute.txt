@@ -13,3 +13,17 @@ C:\Users\Rashini Madhuka\Desktop\VP\Employee Registration New\Employee Registrat
 C:\Users\Rashini Madhuka\Desktop\VP\Employee Registration New\Employee Registration New\obj\Debug\Employee Registration New.csproj.CoreCompileInputs.cache
 C:\Users\Rashini Madhuka\Desktop\VP\Employee Registration New\Employee Registration New\obj\Debug\Employee Registration New.exe
 C:\Users\Rashini Madhuka\Desktop\VP\Employee Registration New\Employee Registration New\obj\Debug\Employee Registration New.pdb
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\bin\Debug\EmpDB.mdf
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\bin\Debug\EmpDB_log.ldf
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\bin\Debug\EmployeeDatabase.mdf
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\bin\Debug\EmployeeDatabase_log.ldf
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\bin\Debug\Employee Registration New.exe.config
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\bin\Debug\Employee Registration New.exe
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\bin\Debug\Employee Registration New.pdb
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\obj\Debug\Employee Registration New.csproj.AssemblyReference.cache
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\obj\Debug\Employee_Registration_New.Form1.resources
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\obj\Debug\Employee_Registration_New.Properties.Resources.resources
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\obj\Debug\Employee Registration New.csproj.GenerateResource.cache
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\obj\Debug\Employee Registration New.csproj.CoreCompileInputs.cache
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\obj\Debug\Employee Registration New.exe
+C:\Users\DILSHAN-VIVOBOOK\Documents\Projects\Employee Registration System(Visual Studio_C#_Windows_Forms)\Employee Registration - CRUD Operation\Employee Registration New\obj\Debug\Employee Registration New.pdb
